@@ -7,9 +7,7 @@ The Smart Calculator App is a feature-rich calculator built using Flutter. It pr
 
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
 - Scientific calculations (trigonometric functions, logarithms, exponentiation, etc.)
-- Unit conversions (length, temperature, weight, etc.)
-- History of previous calculations
-- Customizable themes
+
 
 ## Screenshots
 
